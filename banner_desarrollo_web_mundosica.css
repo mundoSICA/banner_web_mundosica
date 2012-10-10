@@ -2,6 +2,8 @@
 	width:280px;
 	height:319px;
 	background:URL(banner_desarrollo_web_mundosica.png);
+	cursor: pointer;
+	cursor: hand;
 }
 .banner_desarrollo_web_mundosica h4,.banner_desarrollo_web_mundosica h3{
 	position:absolute;
