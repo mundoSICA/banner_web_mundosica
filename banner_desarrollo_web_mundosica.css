@@ -1,0 +1,38 @@
+.banner_desarrollo_web_mundosica{
+	width:280px;
+	height:319px;
+	background:URL(banner_desarrollo_web_mundosica.png);
+}
+.banner_desarrollo_web_mundosica h4,.banner_desarrollo_web_mundosica h3{
+	position:absolute;
+	font-family:Helvetica,​arial,​freesans,​clean,​sans-serif;
+	text-weigth:bold;
+}
+.banner_desarrollo_web_mundosica h4 {
+  color: #FFFFFF;
+  font-size: 37px;
+  margin-left:5px;
+  margin-top:3px;
+  text-shadow: 1px 1px #CCCCCC, -1px -1px #AAAAAA, 0 0 5px rgba(255, 255, 255, 0.5);
+  opacity:0.5;
+}
+.banner_desarrollo_web_mundosica:hover h4 {
+	text-shadow: 1px 1px #00D4E8, -1px -1px #00D4E8, 0 0 10px RGBA(0,230,255,0.5);
+	opacity:1;
+}
+
+.banner_desarrollo_web_mundosica h3{
+	margin-top:279px;
+	margin-left:10px;
+}
+
+.banner_desarrollo_web_mundosica h3 a{
+	font-size:35px;
+	color:#312300;
+	text-decoration:none;
+	text-shadow:-2px -2px 2px #f1d66a,2px 2px 2px #f1d66a,0 0 5px #f1d66a;
+	opacity:0.8;
+}
+.banner_desarrollo_web_mundosica:hover h3 a{
+	opacity:1;
+}
